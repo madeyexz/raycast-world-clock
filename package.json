@@ -1,8 +1,8 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "world-clock",
-  "title": "World Clock",
-  "description": "See the current time in the time zones you care about.",
+  "name": "favorite-world-clock",
+  "title": "Favorite World Clock",
+  "description": "See the current time in your favorite cities and time zones.",
   "icon": "icon.png",
   "author": "madeyexz",
   "license": "MIT",

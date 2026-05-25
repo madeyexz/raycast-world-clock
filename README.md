@@ -1,4 +1,4 @@
-# World Clock for Raycast
+# Favorite World Clock for Raycast
 
 A small Raycast extension that shows the current time for your favorite cities and time zones.
 
@@ -16,12 +16,12 @@ A small Raycast extension that shows the current time for your favorite cities a
 
 1. Run `npm install`.
 2. Run `npm run dev`.
-3. Open Raycast and run **World Clock**.
-4. Add **World Clock** to Raycast Favorites. If it is your third favorite, `⌘3` opens it directly.
+3. Open Raycast and run **Favorite World Clock**.
+4. Add **Favorite World Clock** to Raycast Favorites. If it is your third favorite, `⌘3` opens it directly.
 
 ## Configure time zones
 
-Open Raycast Preferences → Extensions → World Clock and edit **Time Zones**.
+Open Raycast Preferences → Extensions → Favorite World Clock and edit **Time Zones**.
 
 Use city names separated by commas:
 
@@ -50,7 +50,7 @@ The time zone source is the IANA time zone database exposed by JavaScript's `Int
 
 ## Display settings
 
-Press `⌘K` inside World Clock to open actions. From there you can:
+Press `⌘K` inside Favorite World Clock to open actions. From there you can:
 
 - Add a time zone (`⌘N`)
 - Remove the selected time zone (`⌘⌫`)
@@ -58,7 +58,7 @@ Press `⌘K` inside World Clock to open actions. From there you can:
 - Switch between 24-hour and 12-hour time
 - Switch between Digital and Analog grid cards
 
-You can also use Raycast Preferences → Extensions → World Clock to set defaults:
+You can also use Raycast Preferences → Extensions → Favorite World Clock to set defaults:
 
 - **View**: Grid or List
 - **Clock Style**: Digital or Analog for grid cards
